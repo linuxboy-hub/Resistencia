@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Resistor Calculator</string>
+    <string name="title">Resistor Calculator</string>
+    <string name="banda1_textview">Band 1</string>
+    <string name="banda2_textview">Band 2</string>
+    <string name="banda3_textview">Band 3</string>
+    <string name="banda4_textview">Band 4</string>
+    <string name="calc_button">Calculate</string>
+    <string name="mostrar_button">Show Colors</string>
+    <string name="imagen">Imagen resistencia</string>
+    <string name="resistencia_inferior">resistencia inferior</string>
+    <string name="resistencia_superior">Resistencia superior</string>
+    <string name="respuesta">Resistor of: %s Ohmns with a tolerance of %s</string>
+
+    <string-array name="banda1">
+        <item>Choose</item>
+        <item>Brown</item>
+        <item>Red</item>
+        <item>Orange</item>
+        <item>Yellow</item>
+        <item>Green</item>
+        <item>Blue</item>
+        <item>Purple</item>
+        <item>Gray</item>
+        <item>White</item>
+    </string-array>
+
+    <string-array name="banda2">
+        <item>Choose</item>
+        <item>Black</item>
+        <item>Brown</item>
+        <item>Red</item>
+        <item>Orange</item>
+        <item>Yellow</item>
+        <item>Green</item>
+        <item>Blue</item>
+        <item>Purple</item>
+        <item>Gray</item>
+        <item>White</item>
+    </string-array>
+
+    <string-array name="banda3">
+        <item>Choose</item>
+        <item>Black</item>
+        <item>Brown</item>
+        <item>Red</item>
+        <item>Orange</item>
+        <item>Yellow</item>
+        <item>Green</item>
+        <item>Blue</item>
+        <item>Gold</item>
+        <item>Silver</item>
+    </string-array>
+
+    <string-array name="banda4">
+        <item>Choose</item>
+        <item>Brown</item>
+        <item>Red</item>
+        <item>Gold</item>
+        <item>Silver</item>
+    </string-array>
+
+</resources>
